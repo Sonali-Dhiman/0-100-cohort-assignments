@@ -1,0 +1,1 @@
+adding extra data using writefile of fs library.This data is to append data in file
